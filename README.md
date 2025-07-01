@@ -162,38 +162,6 @@ Este script creará un archivo `data_aug.csv` con datos simulados que incluyen:
 - Identificar productos con mejor margen
 - Planificar compras basadas en rendimiento
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Para contribuir:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👥 Autores
-
-- **Tu Nombre** - _Desarrollo inicial_ - [TuUsuario](https://github.com/tu-usuario)
-
-## 🙏 Agradecimientos
-
-- Streamlit por el framework de desarrollo
-- Plotly por las visualizaciones interactivas
-- La comunidad de Python por las librerías de análisis de datos
-
-## 📞 Soporte
-
-Si tienes preguntas o necesitas ayuda:
-
-- Abre un [Issue](https://github.com/tu-usuario/sales-intelligence-dashboard/issues)
-- Contacta al equipo de desarrollo
-- Revisa la documentación de Streamlit
-
 ---
 
 ⭐ **¡No olvides darle una estrella al repositorio si te resulta útil!**
